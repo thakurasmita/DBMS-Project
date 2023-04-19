@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Variables declared with the let keyword have what type of scope?",
+    "answers": [
+      "function scope",
+      "Inline Scope",
+      "block scope",
+      "global scope"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 2,
+    "question": "Which CSS property will not trigger layout recalculation?",
+    "answers": [
+      "Top", 
+      "opacity", 
+      "Width", 
+      "Height"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 3,
+    "question": "What is the <label> element used for?",
+    "answers": [
+      "to explain what needs to be entered into a form field", 
+      "to identify the difference parts of a figure", 
+      "as a caption for images", 
+      "as a heading for tables"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 4,
+    "question": "Which choice is not part of CSS box model",
+    "answers": [
+      "Border",
+      "Padding",
+      "paragraph",
+      "Margin"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 5,
+    "question": "How does the rem unit represent a font size?",
+    "answers": [
+      "Font sizes are relative to the root em unit used in the HTML element.",
+      "Font sizes are relative to the base font size of the operating system.",
+      "Font sizes are expressed relative to the font size of the parent elements",
+      "Font sizes are expressed relative to the font size of the containing div element"
+    ],
+    "correct": 0
+  }
+]
